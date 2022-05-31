@@ -1,0 +1,84 @@
+a{
+    text-decoration: none;
+    color: #444;
+}
+.container{
+    margin-top: 130px;
+}
+.account-btn{
+    background-color: #e3effa;
+    border-color: transparent;
+padding: 15px;
+font-size: 16px;
+color: #898888;
+margin-left: 100px;
+margin-top: 5px;
+}
+.account-btn:hover{
+    color: #fff;
+    background: #f67d4a;
+    text-decoration: none;
+
+}
+.logo-section{
+    background-color: #f4f8fc;
+    padding: 50px;
+   text-align: center;
+    justify-content: center;
+}
+.login-svg{
+    margin-top: 100px;
+
+}
+.login-form-section{
+    background-color: #d8e4f0;
+    padding: 70px 85px ;
+    
+
+    
+}
+.login-form-section h2{
+    color: #232f4b;
+    font-size: 30px;
+    font-weight: 600;
+    text-align: center;
+    
+}
+.login-form{
+    padding-left: 70px;
+    padding-right: 70px;
+    
+}
+.login-form label{
+    display: inline-block;
+    font-weight: 700;
+    color: #898888;
+    
+}
+form{
+    margin-top: 100px;
+}
+input{
+    width: 100%;
+    margin-bottom: 15px;
+    padding-left: 20px;
+    height: 60px;
+    border: none;
+    outline: none;
+}
+.submit-btn{
+    text-align: center;
+    background: #f67d4a;
+    border: 3px solid #f67d4a;
+    color: #fff;
+    margin-top: 50px;
+    padding: 10px 20px;
+    font-weight: 400;
+}
+.submit-btn:hover{
+    background: #fff;
+    color: #f67d4a;
+}
+span{
+    color: #898888;
+}
