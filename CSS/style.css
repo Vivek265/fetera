@@ -617,3 +617,11 @@ input[type=submit]{
 .carousel-item-next.carousel-item-left{
     display: block !important;
   }
+
+
+
+  @media (min-width:480px)  { 
+      .ab-image{
+          visibility: none;
+      }
+   }
